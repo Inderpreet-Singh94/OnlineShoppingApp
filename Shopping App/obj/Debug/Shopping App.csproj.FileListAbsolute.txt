@@ -1,0 +1,93 @@
+C:\Users\smart\source\repos\Shopping App\Shopping App\bin\Debug\Shopping App.exe.config
+C:\Users\smart\source\repos\Shopping App\Shopping App\bin\Debug\Shopping App.exe
+C:\Users\smart\source\repos\Shopping App\Shopping App\bin\Debug\Shopping App.pdb
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\Shopping App.csprojAssemblyReference.cache
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\MainWindow.g.cs
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\App.g.cs
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\Shopping App_MarkupCompile.cache
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\Shopping App_MarkupCompile.lref
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\MainWindow.baml
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\Shopping App.g.resources
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\Shopping_App.Properties.Resources.resources
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\Shopping App.csproj.GenerateResource.cache
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\Shopping App.csproj.CoreCompileInputs.cache
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\Shopping App.exe
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\Shopping App.pdb
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\RegisterPage.g.cs
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\RegisterPage.baml
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\AdminDashboard.g.cs
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\AdminDashboard.baml
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\AddProduct.g.cs
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\Dashboard.g.cs
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\AddProduct.baml
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\Dashboard.baml
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\AllProducts.g.cs
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\AllProducts.baml
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\AllCustomers.g.cs
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\AllCustomers.baml
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\ChangePwd.g.cs
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\ChangePwd.baml
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\EditProduct.g.cs
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\EditProduct.baml
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\CustomerHome.g.cs
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\CustomerHome.baml
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\AddtoCart.g.cs
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\AllOrders.g.cs
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\OrderHistory.g.cs
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\ViewCart.g.cs
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\AddtoCart.baml
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\AllOrders.baml
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\OrderHistory.baml
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\ViewCart.baml
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\ChangeQuantity.g.cs
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\ChangeQuantity.baml
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\OrderDetails.g.cs
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\OrderDetails.baml
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\InventoryDetails.g.cs
+C:\Users\smart\source\repos\Shopping App\Shopping App\obj\Debug\InventoryDetails.baml
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\bin\Debug\Shopping App.exe.config
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\bin\Debug\Shopping App.exe
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\bin\Debug\Shopping App.pdb
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\Shopping App.csprojAssemblyReference.cache
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\AddProduct.g.cs
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\AddtoCart.g.cs
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\AdminDashboard.g.cs
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\AllCustomers.g.cs
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\AllOrders.g.cs
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\AllProducts.g.cs
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\ChangePwd.g.cs
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\ChangeQuantity.g.cs
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\CustomerHome.g.cs
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\Dashboard.g.cs
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\EditProduct.g.cs
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\InventoryDetails.g.cs
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\MainWindow.g.cs
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\OrderDetails.g.cs
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\OrderHistory.g.cs
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\RegisterPage.g.cs
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\ViewCart.g.cs
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\App.g.cs
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\Shopping App_MarkupCompile.cache
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\Shopping App_MarkupCompile.lref
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\AddProduct.baml
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\AddtoCart.baml
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\AdminDashboard.baml
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\AllCustomers.baml
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\AllOrders.baml
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\AllProducts.baml
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\ChangePwd.baml
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\ChangeQuantity.baml
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\CustomerHome.baml
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\Dashboard.baml
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\EditProduct.baml
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\InventoryDetails.baml
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\MainWindow.baml
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\OrderDetails.baml
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\OrderHistory.baml
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\RegisterPage.baml
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\ViewCart.baml
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\Shopping App.g.resources
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\Shopping_App.Properties.Resources.resources
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\Shopping App.csproj.GenerateResource.cache
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\Shopping App.exe
+C:\Users\jjaskara1\Desktop\Shopping App\Shopping App\obj\Debug\Shopping App.pdb

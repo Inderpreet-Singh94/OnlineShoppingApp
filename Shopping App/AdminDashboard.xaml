@@ -1,0 +1,22 @@
+﻿<Window x:Class="Shopping_App.AdminDashboard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Shopping_App"
+        mc:Ignorable="d"
+        Closing="Window_Closing"
+        WindowStartupLocation="CenterScreen"
+        Title="Admin Dashboard" Height="375.564" Width="800">
+    <Grid>
+        <Button x:Name="bAdd" Content="Add Product" HorizontalAlignment="Left" Margin="224,102,0,0" VerticalAlignment="Top" Width="134" FontSize="16" Height="37" Click="BAdd_Click"/>
+        <Button x:Name="bAllProducts" Content="All Products" HorizontalAlignment="Left" Margin="224,170,0,0" VerticalAlignment="Top" Width="134" FontSize="16" Height="37"/>
+        <Button x:Name="bOrderProduct" Content="Order Products" HorizontalAlignment="Left" Margin="224,239,0,0" VerticalAlignment="Top" Width="134" FontSize="16" Height="37"/>
+        <Button x:Name="bAllOrders" Content="All Order" HorizontalAlignment="Left" Margin="494,102,0,0" VerticalAlignment="Top" Width="134" FontSize="16" Height="37"/>
+        <Button x:Name="bAllCustomers" Content="All Customers" HorizontalAlignment="Left" Margin="494,170,0,0" VerticalAlignment="Top" Width="134" FontSize="16" Height="37"/>
+        <Button x:Name="bchangePwd" Content="Change Password" HorizontalAlignment="Left" Margin="494,239,0,0" VerticalAlignment="Top" Width="134" FontSize="16" Height="37"/>
+        <Button x:Name="bLogout" Content="Logout" HorizontalAlignment="Left" Margin="676,14,0,0" VerticalAlignment="Top" Width="80" FontSize="16" Height="37"/>
+        <Label Content="Admin Dashboard" HorizontalAlignment="Left" Margin="315,39,0,0" VerticalAlignment="Top" FontSize="22"/>
+
+    </Grid>
+</Window>

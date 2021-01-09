@@ -1,0 +1,34 @@
+﻿<Window x:Class="Shopping_App.AddProduct"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Shopping_App"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Add New Product" Height="450" Width="800">
+    <Grid>
+        <Label Content="Product Name" HorizontalAlignment="Left" Margin="50,34,0,0" VerticalAlignment="Top" Width="133" Height="35" FontSize="16"/>
+        <TextBox x:Name="tpname" HorizontalAlignment="Left" VerticalContentAlignment="Center" Height="35" Margin="242,34,0,0" VerticalAlignment="Top" Width="213" FontSize="14"/>
+        <Label Content="Category" HorizontalAlignment="Left" Margin="50,86,0,0" VerticalAlignment="Top" Width="133" Height="35" FontSize="16"/>
+        <TextBox x:Name="tpcat" HorizontalAlignment="Left" VerticalContentAlignment="Center" Height="35" Margin="242,86,0,0" VerticalAlignment="Top" Width="213" FontSize="14"/>
+        <Label Content="Description" HorizontalAlignment="Left" Margin="50,139,0,0" VerticalAlignment="Top" Width="133" Height="35" FontSize="16"/>
+        <TextBox x:Name="tpdesc" HorizontalAlignment="Left" VerticalContentAlignment="Center" Height="35" Margin="242,139,0,0" VerticalAlignment="Top" Width="213" FontSize="14"/>
+        <Label Content="Price" HorizontalAlignment="Left" Margin="50,192,0,0" VerticalAlignment="Top" Width="133" Height="35" FontSize="16"/>
+        <TextBox x:Name="tprice" HorizontalAlignment="Left" VerticalContentAlignment="Center" Height="35" Margin="242,192,0,0" VerticalAlignment="Top" Width="213" FontSize="14"/>
+        <Label Content="Discount" HorizontalAlignment="Left" Margin="491,34,0,0" VerticalAlignment="Top" Width="99" Height="35" FontSize="16"/>
+        <TextBox x:Name="tdisc" HorizontalAlignment="Left" VerticalContentAlignment="Center" Height="35" Margin="606,34,0,0" VerticalAlignment="Top" Width="145" FontSize="14"/>
+        <Button x:Name="bsave" Content="Save Product" HorizontalAlignment="Left" Margin="642,340,0,0" VerticalAlignment="Top" Width="109" FontSize="16" Height="38" Click="Bsave_Click"/>
+        <Label Content="Available Quantity" HorizontalAlignment="Left" Margin="50,250,0,0" VerticalAlignment="Top" Width="160" Height="35" FontSize="16"/>
+        <TextBox x:Name="taqty" HorizontalAlignment="Left" VerticalContentAlignment="Center" Height="35" Margin="242,250,0,0" VerticalAlignment="Top" Width="213" FontSize="14"/>
+        <Label Content="Min Qty" HorizontalAlignment="Left" Margin="491,86,0,0" VerticalAlignment="Top" Width="99" Height="35" FontSize="16"/>
+        <TextBox x:Name="tmin" HorizontalAlignment="Left" VerticalContentAlignment="Center" Height="35" Margin="606,86,0,0" VerticalAlignment="Top" Width="145" FontSize="14"/>
+        <Label Content="Max Qty" HorizontalAlignment="Left" Margin="491,139,0,0" VerticalAlignment="Top" Width="99" Height="35" FontSize="16"/>
+        <TextBox x:Name="tmax" HorizontalAlignment="Left" VerticalContentAlignment="Center" Height="35" Margin="606,139,0,0" VerticalAlignment="Top" Width="145" FontSize="14"/>
+        <Label Content="Start Date" HorizontalAlignment="Left" Margin="491,192,0,0" VerticalAlignment="Top" Width="99" Height="35" FontSize="16"/>
+        <Label Content="End Date" HorizontalAlignment="Left" Margin="491,250,0,0" VerticalAlignment="Top" Width="99" Height="35" FontSize="16"/>
+        <DatePicker x:Name="tstart" FontSize="16" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="606,192,0,0" Width="145" Height="35"/>
+        <DatePicker x:Name="tend" FontSize="16" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="606,250,0,0" Width="145" Height="35"/>
+
+    </Grid>
+</Window>

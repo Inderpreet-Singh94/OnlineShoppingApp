@@ -1,0 +1,30 @@
+﻿<Window x:Class="Shopping_App.InventoryDetails"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Shopping_App"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Inventory Details" Height="450" Width="960.714">
+    <Grid Height="419" VerticalAlignment="Top">
+        <Label Content="Inventory Report" HorizontalAlignment="Center" Margin="363,10,400,0" VerticalAlignment="Top" FontSize="22"/>
+        <ListView HorizontalAlignment = "Left"
+            Margin = "0,70,0,0" FontSize="18px" x:Name = "list" Height="339" 
+            VerticalAlignment="Top" Width="943">
+            <ListView.View>
+                <GridView AllowsColumnReorder="true" ColumnHeaderToolTip="Authors">
+                    <!-- Add GridVeiw Columns -->
+                    <GridViewColumn Header="Prod ID"  Width="80" DisplayMemberBinding="{Binding ProdId}" />
+                    <GridViewColumn Header="Product Name" Width="200" DisplayMemberBinding="{Binding Pname}" />
+                    <GridViewColumn Header="In Stock" Width="200" DisplayMemberBinding="{Binding InStock}" />
+                    <GridViewColumn Header="Price" Width="120" DisplayMemberBinding="{Binding Price}" />
+                    <GridViewColumn Header="Sold Qty" Width="140" DisplayMemberBinding="{Binding SoldQty}" />
+                    <GridViewColumn Header="Sold Amount" DisplayMemberBinding="{Binding Amount}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label x:Name="lblTotal" Content="Total Sales" HorizontalAlignment="Center" Margin="687,10,155,0" VerticalAlignment="Top" FontSize="22"/>
+
+    </Grid>
+</Window>

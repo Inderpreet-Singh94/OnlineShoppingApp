@@ -1,0 +1,39 @@
+﻿<Window x:Class="Shopping_App.CustomerHome"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Shopping_App"
+        mc:Ignorable="d"
+        Closing="Window_Closing" WindowStartupLocation="CenterScreen"
+        Title="Customer Home" Height="450" Width="800">
+    <Grid>
+        <ListView HorizontalAlignment = "Left" SelectionChanged="List_SelectionChanged"
+                  Margin = "0,100,0,0" FontSize="18px" Name = "list" Height="319" 
+                  VerticalAlignment="Top" Width="782">
+            <ListView.View>
+                <GridView AllowsColumnReorder="true" ColumnHeaderToolTip="Authors">
+                    <!-- Add GridVeiw Columns -->
+                    <GridViewColumn Header="Product ID"  Width="90" DisplayMemberBinding="{Binding Path=ProdID}" />
+                    <GridViewColumn Header="Product Name" Width="180" DisplayMemberBinding="{Binding Path=ProductName}" />
+                    <GridViewColumn Header="Category" Width="150" DisplayMemberBinding="{Binding Path=Category}" />
+                    <GridViewColumn Header="Price" Width="120" DisplayMemberBinding="{Binding Path=Price}" />
+                    <GridViewColumn Header="Available Qty" Width="140" DisplayMemberBinding="{Binding Path=AvailableQty}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label x:Name="lblUser" Content="Welcome " HorizontalAlignment="Left" Margin="287,42,0,0" VerticalAlignment="Top" FontSize="16" RenderTransformOrigin="-2,0.516"/>
+        <Button Content="View Cart" x:Name="bcart" 
+                FontSize="14px"
+                HorizontalAlignment="Left" Margin="45,46,0,0" VerticalAlignment="Top" Width="94" Height="25" Click="Bcart_Click"/>
+        <Button Content="Order History" x:Name="bcart_Copy" 
+            FontSize="14px"
+            HorizontalAlignment="Left" Margin="153,46,0,0" VerticalAlignment="Top" Width="111" Height="25" Click="Bcart_Copy_Click"/>
+        <Button Content="Change Password" x:Name="bcart_Copy1" 
+            FontSize="14px"
+            HorizontalAlignment="Left" Margin="529,46,0,0" VerticalAlignment="Top" Width="130" Height="25" Click="Bcart_Copy1_Click"/>
+        <Button Content="Log out" x:Name="bcart_Copy2" 
+            FontSize="14px"
+            HorizontalAlignment="Left" Margin="673,46,0,0" VerticalAlignment="Top" Width="94" Height="25" Click="Bcart_Copy2_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,26 @@
+﻿<Window x:Class="Shopping_App.OrderHistory"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Shopping_App"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="OrderHistory" Height="450" Width="800">
+    <Grid>
+        <Label Content="Order History" HorizontalAlignment="Center" 
+            Margin="309,10,302,0" VerticalAlignment="Top" FontSize="22" Width="151"/>
+        <ListView HorizontalAlignment = "Left" SelectionChanged="List_SelectionChanged"
+            Margin = "85,75,0,0" FontSize="18px" x:Name = "list" Height="319" 
+            VerticalAlignment="Top" Width="664">
+            <ListView.View>
+                <GridView AllowsColumnReorder="true" ColumnHeaderToolTip="Authors">
+                    <!-- Add GridVeiw Columns -->
+                    <GridViewColumn Header="#Order ID"  Width="120" DisplayMemberBinding="{Binding OrderId}" />
+                    <GridViewColumn Header="User ID" Width="180" DisplayMemberBinding="{Binding UserId}" />
+                    <GridViewColumn Header="Order Date" Width="120" DisplayMemberBinding="{Binding OrderDate}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

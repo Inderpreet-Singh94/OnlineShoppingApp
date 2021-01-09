@@ -1,0 +1,27 @@
+﻿<Window x:Class="Shopping_App.ChangeQuantity"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Shopping_App"
+        WindowStartupLocation="CenterScreen"
+        mc:Ignorable="d"
+        Title="ChangeQuantity" Height="450" Width="800">
+    <Grid>
+        <Label Content="Product Name" HorizontalAlignment="Left" Margin="53,146,0,0" VerticalAlignment="Top" Width="133" Height="35" FontSize="16"/>
+        <TextBox x:Name="tpname" IsReadOnly="True" HorizontalAlignment="Left" VerticalContentAlignment="Center" Height="35" Margin="245,146,0,0" VerticalAlignment="Top" Width="268" FontSize="14"/>
+        <Label Content="Price" HorizontalAlignment="Left" Margin="53,209,0,0" VerticalAlignment="Top" Width="133" Height="35" FontSize="16"/>
+        <TextBox x:Name="tprice" IsReadOnly="True" HorizontalAlignment="Left" VerticalContentAlignment="Center" Height="35" Margin="245,209,0,0" VerticalAlignment="Top" Width="205" FontSize="14"/>
+        <Label Content="Discount" HorizontalAlignment="Left" Margin="53,262,0,0" VerticalAlignment="Top" Width="133" Height="35" FontSize="16"/>
+        <TextBox x:Name="tdisc" IsReadOnly="True" HorizontalAlignment="Left" VerticalContentAlignment="Center" Height="35" Margin="245,262,0,0" VerticalAlignment="Top" Width="205" FontSize="14"/>
+        <Button x:Name="bsaveqty" IsDefault="True" Content="Update Quantity" HorizontalAlignment="Left" Margin="584,223,0,0" VerticalAlignment="Top" Width="169" FontSize="16" Height="38" Click="Bsaveqty_Click"/>
+        <Label Content="Available Quantity" HorizontalAlignment="Left" Margin="53,310,0,0" VerticalAlignment="Top" Width="160" Height="35" FontSize="16"/>
+        <TextBox x:Name="taqty" HorizontalContentAlignment="Center" IsReadOnly="True" HorizontalAlignment="Left" VerticalContentAlignment="Center" Height="35" Margin="245,310,0,0" VerticalAlignment="Top" Width="205" FontSize="14"/>
+        <Label Content="Product ID" HorizontalAlignment="Left" Margin="53,86,0,0" VerticalAlignment="Top" Width="133" Height="35" FontSize="16"/>
+        <TextBox x:Name="tprodid" IsReadOnly="True" HorizontalAlignment="Left" VerticalContentAlignment="Center" Height="35" Margin="245,86,0,0" VerticalAlignment="Top" Width="268" FontSize="14"/>
+        <Label Content="Quantity to order" HorizontalAlignment="Left" Margin="584,86,0,0" VerticalAlignment="Top" Width="133" Height="35" FontSize="16"/>
+        <TextBox x:Name="tqty" Text="1" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalContentAlignment="Center" Height="35" Margin="584,146,0,0" VerticalAlignment="Top" Width="150" FontSize="14"/>
+        <Button x:Name="bcancel" IsDefault="True" Content="Cancel Item" HorizontalAlignment="Left" Margin="584,276,0,0" VerticalAlignment="Top" Width="169" FontSize="16" Height="38" Click="Bcancel_Click"/>
+
+    </Grid>
+</Window>
